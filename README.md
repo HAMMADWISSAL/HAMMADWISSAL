@@ -1,19 +1,19 @@
-<div align="center">
+ <div align="center">
 
 <br/>
 
-```
+```text
 ██╗    ██╗██╗███████╗███████╗ █████╗ ██╗
-██║    ██║██║██╔════╝██╔════╝██╔══██╗██║
-██║ █╗ ██║██║███████╗███████╗███████║██║
+██║    ██║██║╔════╝██╔════╝██╔══██╗██║
+██║ █╗ ██║██║███████╗███████║███████║██║
 ██║███╗██║██║╚════██║╚════██║██╔══██║██║
  ╚███╔███╔╝██║███████║███████║██║  ██║███████╗
  ╚══╝╚══╝ ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚══════╝
 ```
 
-**`MOBILE & WEB DEVELOPER`** &nbsp;·&nbsp; **`ANDROID NATIVE`** &nbsp;·&nbsp; **`UI/UX`**
+**`MOBILE & WEB DEVELOPER`** · **`FLUTTER & ANDROID`** · **`UI/UX`**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=15&amp;pause=2000&amp;color=F75C7E&amp;center=true&amp;vCenter=true&amp;width=480&amp;lines=Building+native+Android+apps+with+Kotlin;Crafting+clean%2C+modern+user+interfaces;Turning+ideas+into+digital+products" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=15&amp;pause=2000&amp;color=F75C7E&amp;center=true&amp;vCenter=true&amp;width=480&amp;lines=Building+mobile+apps+with+Flutter;Developing+native+Android+apps+with+Kotlin;Turning+ideas+into+digital+products" />
 
 <br/>
 
@@ -38,11 +38,13 @@ ABOUT
 <tr>
 <td width="55%">
 
-Mobile & Web Developer based in **Rabat, Morocco**, currently studying at Cité des Métiers et des Compétences. I specialize in **Android native development** with Kotlin and build clean, performant web experiences on the side.
+Mobile & Web Developer based in **Rabat, Morocco**, with a background in Digital Development — Mobile Applications at Cité des Métiers et des Compétences (CMC).
 
-I care about the details — the micro-interactions, the intuitive flows, the interfaces that just *feel right*. My work sits at the intersection of engineering and design.
+My main interests are **mobile application development, Flutter, native Android with Kotlin, and full-stack development**. I enjoy turning ideas into functional applications by combining backend development, database design, and intuitive user interfaces.
 
-> Looking for internships and collaboration opportunities.
+Through personal applications and practical development projects, I continue to strengthen my technical skills and explore new ways to build useful digital products.
+
+> Open to internship opportunities, collaborations, and exciting projects.
 
 </td>
 <td width="45%">
@@ -50,13 +52,14 @@ I care about the details — the micro-interactions, the intuitive flows, the in
 ```yaml
 name     : Wissal Hammad
 location : Rabat, Morocco
-school   : CMC Rabat
+education: CMC Rabat
 focus    :
-  - Android Native (Kotlin)
-  - Web Development
+  - Flutter Development
+  - Native Android (Kotlin)
+  - Full-Stack Development
   - UI/UX Design
 languages: Arabic · French · English
-open_to  : Internships · Collabs
+open_to  : Opportunities · Collaborations
 ```
 
 </td>
@@ -73,21 +76,22 @@ TECH STACK
 <tr>
 <td align="center" width="33%">
 
-**Mobile**
+**Mobile Development**
 
+![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=02569B)
+![Dart](https://img.shields.io/badge/Dart-0D1117?style=flat-square&logo=dart&logoColor=0175C2)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=flat-square&logo=kotlin&logoColor=7F52FF)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-0D1117?style=flat-square&logo=androidstudio&logoColor=3DDC84)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-0D1117?style=flat-square&logo=jetpackcompose&logoColor=4285F4)
-![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=FFCA28)
-![Room](https://img.shields.io/badge/Room_DB-0D1117?style=flat-square&logo=android&logoColor=3DDC84)
-![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=4479A1)
 
 </td>
 <td align="center" width="33%">
 
-**Web**
+**Web & Backend**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=flat-square&logo=express&logoColor=FFFFFF)
 ![PHP](https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php&logoColor=777BB4)
 ![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26)
@@ -97,13 +101,15 @@ TECH STACK
 </td>
 <td align="center" width="33%">
 
-**Tools**
+**Database & Tools**
 
-![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1)
+![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=FFCA28)
+![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=4479A1)
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
 ![Figma](https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=F24E1E)
 ![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-0D1117?style=flat-square&logo=intellijidea&logoColor=FFFFFF)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-0D1117?style=flat-square&logo=intellijidea&logoColor=FFFFFF)
 ![Canva](https://img.shields.io/badge/Canva-0D1117?style=flat-square&logo=canva&logoColor=00C4CC)
 
 </td>
@@ -113,7 +119,55 @@ TECH STACK
 ---
 
 ```
-PROJECTS
+FEATURED PROJECTS
+```
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### DerbAcademy
+**Educational Marketplace · Mobile & Web**
+
+An educational platform designed to connect students, parents, and teachers, making it easier to discover educators and arrange learning sessions.
+
+- Search and filter teachers by subject, location, and other criteria.
+- User profiles and role-based authentication.
+- Course-session booking and reservation management.
+- Teacher verification and student reviews.
+- Push notifications and parent-approval workflows.
+- Administrative dashboard for platform management.
+
+**Tech Stack**
+
+`Flutter` `Dart` `Node.js` `Express.js` `MySQL` `Firebase` `Next.js`
+
+</td>
+<td width="50%" valign="top">
+
+### Bac2Owner
+**Lost & Found · Mobile Application**
+
+A mobile application designed to help people reconnect with lost belongings by matching lost-item reports with found-item listings.
+
+- Publish and search for lost and found items.
+- Weighted matching based on title, category, location, and date.
+- Automated matching to help identify potential owners.
+- Chat available after a successful match.
+- Backend API and database integration.
+
+**Tech Stack**
+
+`Flutter` `Dart` `Node.js` `MySQL` `Firebase`
+
+</td>
+</tr>
+</table>
+
+---
+
+```
+OTHER PROJECTS
 ```
 
 <table>
@@ -121,31 +175,31 @@ PROJECTS
 <td width="50%" valign="top">
 
 ### LoloKids
-**Educational Android App**
+**Educational Android Application**
 
-An app for children to learn Arabic and French alphabets through interactive tracing and audio pronunciation.
+An educational Android app that helps children learn Arabic and French alphabets through interactive letter tracing and audio pronunciation.
 
-- Interactive letter tracing via Canvas API
-- Audio pronunciation per letter
-- Offline-first with Room Database
-- Child-friendly UI/UX
+- Interactive letter tracing using the Android Canvas API.
+- Audio pronunciation for individual letters.
+- Local data storage using Room Database.
+- Child-friendly interface for an engaging learning experience.
 
-`Kotlin` `XML` `Room DB` `Canvas` `MediaPlayer` `Gson`
+`Kotlin` `XML` `Room` `Canvas API` `MediaPlayer` `Gson`
 
 </td>
 <td width="50%" valign="top">
 
 ### Mol_Taxi
-**Taxi Management System**
+**Taxi Management Android Application**
 
-Native Android application managing taxi service operations with real-time location and trip tracking.
+A native Android application designed to support taxi-service operations through driver and trip management.
 
-- Real-time tracking via Google Maps API
-- Driver and trip management
-- Firebase backend
-- Material Design 3 interface
+- Driver and trip management features.
+- Google Maps integration for location-related functionality.
+- Firebase integration for backend functionality.
+- Interface built using Material Design 3 principles.
 
-`Kotlin` `Firebase` `Google Maps API` `Material Design`
+`Kotlin` `Firebase` `Google Maps API` `Material Design 3`
 
 </td>
 </tr>
@@ -153,29 +207,30 @@ Native Android application managing taxi service operations with real-time locat
 <td width="50%" valign="top">
 
 ### Travel Agency Website
-**Responsive Web Experience**
+**Responsive Web Development**
 
-A modern travel website showcasing destinations with a clean, responsive layout.
+A travel agency website presenting destinations through a responsive layout and a modern visual design.
 
-- Curated destination pages
-- Fully responsive across all devices
-- Smooth UI and modern visual style
+- Destination-focused pages.
+- Responsive layouts for different screen sizes.
+- Consistent styling and user-friendly navigation.
 
 `HTML5` `CSS3` `JavaScript`
 
 </td>
 <td width="50%" valign="top">
 
-### Next
-**In Progress**
+### Currently Learning
+**Modern Mobile Development**
 
-Exploring new ideas with Jetpack Compose and advanced Firebase integrations.
+Continuously improving my development skills and exploring new approaches to building applications.
 
-- Deep-diving Jetpack Compose
-- Advanced Firebase Cloud Functions
-- Open to co-building ideas
+- Exploring Jetpack Compose.
+- Improving mobile UI/UX and application architecture.
+- Experimenting with additional Firebase integrations.
+- Building practical projects and exploring new ideas.
 
-*Reach out if you want to build together.*
+*Always open to learning, creating, and collaborating.*
 
 </td>
 </tr>
@@ -189,7 +244,7 @@ GITHUB STATS
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=HAMMADWISSAL&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=F75C7E&amp;icon_color=F75C7E&amp;text_color=FFFFFF&amp;count_private=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=HAMMADWISSAL&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=F75C7E&amp;icon_color=F75C7E&amp;text_color=FFFFFF" />
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAMMADWISSAL&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=F75C7E&amp;text_color=FFFFFF" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HAMMADWISSAL&amp;theme=radical&amp;hide_border=true&amp;background=0D1117&amp;stroke=F75C7E&amp;ring=F75C7E&amp;fire=F75C7E&amp;currStreakLabel=F75C7E" />
@@ -202,9 +257,9 @@ GITHUB STATS
 
 <br/>
 
-**Wissal Hammad** &nbsp;·&nbsp; Rabat, Morocco &nbsp;·&nbsp; Open to opportunities
+**Wissal Hammad** · Rabat, Morocco · Open to opportunities
 
-`wissalhammad@gmail.com` &nbsp;·&nbsp; `+212 644 706 790`
+`wissalhammad@gmail.com` · `+212 644 706 790`
 
 <br/>
 
